@@ -10,7 +10,7 @@ Myself <b>Iftekhar Bhuiyan</b>, who  love to work for front-end development with
 
 ### Current Status Quo :
 
-- 💼 I’ve pursued <strong>BSc in Information and Communications Engineering</strong>.
+- 💼 I’ve pursued <strong>B.Sc in Information and Communications Engineering</strong>.
 - 🔭 I’m currently working on <strong>Flutter </strong>
 - 🌱 Stong Desire to learn <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong>
 - 🤔 My research interests in <strong>Machine Learning</strong>
