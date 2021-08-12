@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Good to see you!</h1>
 
-Myself <b>Iftekhar Bhuiyan</b>, who  love to work for front-end development with Flutter. User experience (UX) is one of my favorite field to work. Other than this I have a good grip over IT Support and Python programming language which I am working on by using different libraries.
+Myself <b>Iftekhar Bhuiyan</b>, who  love to work for front-end development with Flutter.Other than this I have a good grip over IT Support and Python programming language which I am working on by using different libraries.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4544F7&size=22&width=500&lines=Information+and+Communications+Engineer)](https://git.io/typing-svg)
 
