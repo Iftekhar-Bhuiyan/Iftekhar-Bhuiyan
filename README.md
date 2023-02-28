@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Good to see you!</h1>
 
-Myself <b>Iftekhar Bhuiyan</b>, who  love to work for front-end development with Flutter.Other than this I have a good grip over IT Support and Python programming language which I am working on by using different libraries.
+Myself <b>Iftekhar Bhuiyan</b>.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4544F7&size=22&width=500&lines=Information+and+Communications+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=4544F7&size=22&width=500&lines=Software+QA+Engineer)](https://git.io/typing-svg)
 
 ### Reach Me At :
 <a href="mailto: iftekhar.bh.emon@gmail.com">
@@ -11,9 +11,9 @@ Myself <b>Iftekhar Bhuiyan</b>, who  love to work for front-end development with
 ### Current Status Quo :
 
 - 💼 I’ve pursued <strong>B.Sc in Information and Communications Engineering</strong>.
-- 🔭 I’m currently working on <strong>Flutter </strong>
+- 🔭 I’m currently working on <strong>Python and its libraries </strong>
 - 🌱 Stong Desire to learn <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong>
-- 🤔 My research interests in <strong>Machine Learning</strong>
+- 🤔 My research interests in <strong>Data Science</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Software Development</strong> industry
 
 ### Tools I work upon :
